@@ -5,13 +5,11 @@ title: Kontakt
 
 # Kontakt #
 
-Bei Fragen oder Anregungen schickt uns eine Mail an [info@coderdojo-linz.org](mailto:info@coderdojo-linz.org).
+Bei Fragen oder Anregungen schickt uns eine Mail an [info@coderdojo-kapfenberg.org](mailto:info@coderdojo-kapfenberg.org).
 
 ## Impressum ##
 
-**CoderDojo Linz<br />**
-Rainer Stropek und Karin Huber<br />
-Birkenweg 16<br />
-4060 Leonding
+**CoderDojo Kapfenberg<br />**
+Max Schaufler, Mathias Knoll, Holger Reitner
 
-[info@coderdojo-linz.org](mailto:info@coderdojo-linz.org)
+[info@coderdojo-kapfenberg.org](mailto:info@coderdojo-kapfenberg.org)
