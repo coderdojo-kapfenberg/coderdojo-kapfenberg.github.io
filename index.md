@@ -41,7 +41,7 @@ bannerimage: /images/coderdojo-banner-1.jpg
 		<h3>Nächste Termine</h3>
 		<p>Unser nächstes Treffen findet am Samstag, 17. Oktober, um 13 Uhr statt. So wie letztes Mal auch wieder in einem Raum der FH JOANNEUM. Ein Link zur Anmeldung folgt in Kürze.</p>
 		<p>Bei Fragen einfach Kontakt aufnehmen:<br />
-		[info@coderdojo-kapfenberg.org](mailto:info@coderdojo-kapfenberg.org)<br />
+		<a href="mailto:info@coderdojo-kapfenberg.org">info@coderdojo-kapfenberg.org</a><br />
 		Max Schaufler: +43 676 9387361</p>
 		<!--<div class="fb-page" data-href="https://www.facebook.com/coderdojolinz" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
 			<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/coderdojolinz"><a href="https://www.facebook.com/coderdojolinz">CoderDojo Linz</a></blockquote></div>
