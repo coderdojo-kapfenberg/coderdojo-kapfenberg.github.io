@@ -1,1 +1,1 @@
-# coderdojo-linz.github.io
+# coderdojo-kapfenberg.github.io
