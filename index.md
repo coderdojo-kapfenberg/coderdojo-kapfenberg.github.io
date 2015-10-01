@@ -39,7 +39,8 @@ bannerimage: /images/coderdojo-banner-1.jpg
 	</div>
 	<div class="col-md-4">
 		<h3>Nächste Termine</h3>
-		<p>Unser nächstes Treffen findet am Samstag, 17. Oktober, um 13 Uhr statt. So wie letztes Mal auch wieder in einem Raum der FH JOANNEUM. Ein Link zur Anmeldung folgt in Kürze.</p>
+		<p>Unser nächstes Treffen findet am <strong>Samstag, 17. Oktober, von 13 bis 16 Uhr</strong> statt. So wie letztes Mal auch wieder in einem Raum der FH JOANNEUM.</p>
+		<p class="text-center"><a class="btn btn-material-light-blue-600" href="https://www.eventbrite.de/e/coderdojo-kapfenberg-tickets-18890687555" target="_new">Zur Anmeldung für 17.10.</a></p>
 		<p>Bei Fragen einfach Kontakt aufnehmen:<br />
 		<a href="mailto:info@coderdojo-kapfenberg.org">info@coderdojo-kapfenberg.org</a><br />
 		Max Schaufler: +43 676 9387361</p>
