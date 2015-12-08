@@ -39,8 +39,8 @@ bannerimage: /images/coderdojo-banner-1.jpg
 	</div>
 	<div class="col-md-4">
 		<h3>Nächste Termine</h3>
-		<p>Unser nächstes Treffen findet am <strong>Freitag, 27. November, von 16 bis 18 Uhr</strong> statt. So wie letztes Mal auch wieder in einem Raum der FH JOANNEUM.</p>
-		<p class="text-center"><a class="btn btn-material-light-blue-600" href="https://www.eventbrite.de/e/coderdojo-kapfenberg-tickets-18890687555" target="_new">Zur Anmeldung für 27.11.</a></p>
+		<p>Wir veranstalten am <strong>Samstag, 12. Dezember, von 14:30 bis 16:30 Uhr</strong> einen Spezialtermin zur <a href="http://hourofcode.com/de" target="_new">"Hour of Code"</a>. Programmieren lernen für Jedermann - nimm einen Freund oder eine Freundin mit! Auch diesmal wieder in einem Raum der FH JOANNEUM.</p>
+		<p class="text-center"><a class="btn btn-material-light-blue-600" href="https://www.eventbrite.de/e/coderdojo-kapfenberg-hour-of-code-tickets-19903905116" target="_new">Zur Anmeldung für 12.12.</a></p>
 		<p>Bei Fragen einfach Kontakt aufnehmen:<br />
 		<a href="mailto:info@coderdojo-kapfenberg.org">info@coderdojo-kapfenberg.org</a><br />
 		Max Schaufler: +43 676 9387361</p>
