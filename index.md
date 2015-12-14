@@ -39,8 +39,8 @@ bannerimage: /images/coderdojo-banner-1.jpg
 	</div>
 	<div class="col-md-4">
 		<h3>Nächste Termine</h3>
-		<p>Wir veranstalten am <strong>Samstag, 12. Dezember, von 14:30 bis 16:30 Uhr</strong> einen Spezialtermin zur <a href="http://hourofcode.com/de" target="_new">"Hour of Code"</a>. Programmieren lernen für Jedermann - nimm einen Freund oder eine Freundin mit! Auch diesmal wieder in einem Raum der FH JOANNEUM.</p>
-		<p class="text-center"><a class="btn btn-material-light-blue-600" href="https://www.eventbrite.de/e/coderdojo-kapfenberg-hour-of-code-tickets-19903905116" target="_new">Zur Anmeldung für 12.12.</a></p>
+		<p>Wir veranstalten am <strong>Dienstag, 22. Dezember, von 16:00 bis 18:00 Uhr</strong> das Abschluss-Dojo 2015 - insgesamt schon unser 5. Termin! Danke an alle bisherigen Teilnehmer, ihr habt mitgeholfen, unsere Idee mit Leben zu füllen. Bringt Freunde mit, und freut euch schon auf viele weitere Termine im Jahr 2016! Auch diesmal wieder an der FH JOANNEUM.</p>
+		<p class="text-center"><a class="btn btn-material-light-blue-600" href="https://www.eventbrite.de/e/coderdojo-kapfenberg-5-tickets-20001756793" target="_new">Zur Anmeldung für 22.12.</a></p>
 		<p>Bei Fragen einfach Kontakt aufnehmen:<br />
 		<a href="mailto:info@coderdojo-kapfenberg.org">info@coderdojo-kapfenberg.org</a><br />
 		Max Schaufler: +43 676 9387361</p>
