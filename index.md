@@ -39,7 +39,7 @@ bannerimage: /images/coderdojo-banner-1.jpg
 	</div>
 	<div class="col-md-4">
 		<h3>Nächste Termine</h3>
-		<p>Wir veranstalten am <strong>Samstag, 23. Jänner, von 14:30 bis 16:30 Uhr</strong> das erste CoderDojo im Jahr 2016! Kleine Spiele, größere Projekte - heuer geben wir richti Gas! Auch diesmal wieder an der FH JOANNEUM.</p>
+		<p>Wir veranstalten am <strong>Samstag, 23. Jänner, von 14:30 bis 16:30 Uhr</strong> das erste CoderDojo im Jahr 2016! Kleine Spiele, größere Projekte - heuer geben wir richtig Gas! Auch diesmal wieder an der FH JOANNEUM.</p>
 		<p class="text-center"><a class="btn btn-material-light-blue-600" href="https://www.eventbrite.de/e/coderdojo-kapfenberg-tickets-20845434255" target="_new">Zur Anmeldung für 23.01.</a></p>
 		<p>Bei Fragen einfach Kontakt aufnehmen:<br />
 		<a href="mailto:info@coderdojo-kapfenberg.org">info@coderdojo-kapfenberg.org</a><br />
